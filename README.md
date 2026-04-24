@@ -8,8 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3500&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=110&lines=%E2%9A%A1+Hey%2C+I'm+Karima+Khatun+%E2%9A%A1)](https://git.io/typing-svg)
 
 <!-- ══ GIRL CODER GIF ══ -->
-<img width="960" height="540" alt="Image" src="https://github.com/user-attachments/assets/da0f0a41-fe16-48d8-a7a6-bd17a1c80453" />
-
+<img width="960" height="540" alt="Girl Coder" src="https://raw.githubusercontent.com/kay7k4-ai/kay7k4-ai/main/coder.gif" />
 </div>
 
 ---
