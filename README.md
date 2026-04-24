@@ -5,7 +5,7 @@
 ![Karima Banner](https://raw.githubusercontent.com/kay7k4-ai/kay7k4-ai/main/Banner.svg)
 
 <!-- ══ ANIMATED TYPING ══ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3500&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&repeat=false&width=820&height=110&lines=%E2%9A%A1+Hey%2C+I'm+Karima+Khatun+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3500&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=false&width=620&height=30&lines=%E2%9A%A1+Open+Source+Explorer+%E2%9A%A1;%E2%9A%A1+Full+Stack+Development+%E2%9A%A1;%E2%9A%A1+Data+Science+and+%26+ML+%E2%9A%A1;%E2%9A%A1+Data+Structures+and+Algorithm+%E2%9A%A1)](https://git.io/typing-svg)
 
 <!-- ══ GIRL CODER GIF ══ -->
 <img width="960" height="540" alt="Girl Coder" src="https://raw.githubusercontent.com/kay7k4-ai/kay7k4-ai/main/coder.gif" />
