@@ -85,10 +85,10 @@
 
   <!-- Glitch shadow layer -->
   <text x="600" y="100" font-family="'Courier New', Courier, monospace" font-size="36" font-weight="900"
-    fill="#00ffff" text-anchor="middle" opacity="0.2" dx="2" dy="2">KEEP BUILDING ⚡ KEEP GROWING</text>
+    fill="#00ffff" text-anchor="middle" opacity="0.2" dx="2" dy="2">BUILDING ⚡ GROWING</text>
   <!-- Main text -->
   <text x="600" y="100" font-family="'Courier New', Courier, monospace" font-size="36" font-weight="900"
-    fill="url(#neonText)" text-anchor="middle" filter="url(#titleGlow)">KEEP BUILDING ⚡ KEEP GROWING</text>
+    fill="url(#neonText)" text-anchor="middle" filter="url(#titleGlow)">BUILDING ⚡ GROWING</text>
 
   <!-- Subtext -->
   <text x="600" y="128" font-family="'Courier New', Courier, monospace" font-size="11" font-weight="400"
